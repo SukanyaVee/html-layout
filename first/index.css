@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(200, 200, 200)
+}
+.header {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(80, 80, 80)
+}
+.main {
+    height: 800px;
+    width: 750px;
+    background-color: white;
+    margin: auto;
+}
+.footer {
+    height: 50px;
+    width: 750px;
+    background-color: rgb(40, 40, 40);
+    margin:auto;
+    position: absolute; bottom: 0
+}

@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box
+}
+body {
+    background-color: white
+}
+.header {
+    height: 120px;
+    width: 100%;
+    background-color: rgb(200, 200, 200);
+    padding: 10px;
+}
+.header-elem {
+    height:100px;
+    width:100px;
+    margin-left: 20px;
+    background-color: rgb(100, 150, 225)
+}
+
+.main { 
+    width: 100%;
+    padding: 50px;
+    font-family: sans-serif; font-size: 20px; text-align: left; color: black;
+    box-sizing: border-box;
+}
+
+.footer {
+    width: 100%;
+}
+#footer1 {
+    background-color: rgb(100, 150, 225);
+    height: 120px;
+}
+#footer2 {
+    background-color:rgb(90, 220, 200);
+    height: 120px;
+}
+#footer3 {
+    background-color: rgb(180, 240, 140);
+    height: 120px;
+}
+#footer4 {
+    background-color: yellow;
+    height: 120px;
+}
+#footer5 {
+    background-color: black;
+    height: 120px;
+}
